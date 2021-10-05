@@ -1,14 +1,12 @@
 welcome 
-
 1.pastha
 2.kheer
 3.chicken
 
+4.Beans
+5.Pizza
 
-
-
-Thank you
-
-
+Done my changes
 
 Final copy
+

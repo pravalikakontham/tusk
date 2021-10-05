@@ -4,7 +4,8 @@ welcome
 2.kheer
 3.chicken
 
-
+Beans
+Pizza
 
 
 Thank you
